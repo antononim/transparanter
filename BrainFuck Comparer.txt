@@ -1,0 +1,32 @@
+store 0 at cell 1
+[-]
+
+>
+store 10 at cell 2 as a limit
+++++++++++
+>
+print endl
+<.>
+
+store 5
++++++ +++++
+
+so i cant store anything above 255 apparently so 3 digitls should be enough
+so i need a modulo operator apparently
+and for this i need a comparator ?
+goddamn
+
+
+compare cells 2 and 3 but i need to copy them over just in case
+copy from 2 to 5
+<[>>>+>+<<<<-]>>>>[<<<<+>>>>-]<
+copy from 3 to 6
+<<[>>>+>+<<<<-]>>>>[<<<<+>>>>-]<
+im now on cell 6
+store 1 at cell 4 just before comparing
+<<+>>
+compare 4 and 5
+[<[->>]<-]
+<[<]
+
+im now on cell 1
